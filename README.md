@@ -16,8 +16,8 @@
 
 ## 動作環境
 
-* Android Studio ver. 3.1
-* Android OS ver. 6.0, OS ver. 4.4.2
+* MacOS Big Sur 11.6 
+* Android Studio Arctic Fox 2020.3.1
 * Android SDK v3
   - SDK v2系だと動作しないので注意
 
